@@ -7,6 +7,9 @@ set(CMAKE_TOOLCHAIN_FILE "${CMAKE_SOURCE_DIR}/Toolchain-cross-m32.cmake")
 # Config stuff
 #
 
+IF IS SIXTY 4 BIT
+    USE X64 ROSNEHOOK FEATURE() REAL
+
 if (NOT CMAKE_BUILD_TYPE)
     set(CMAKE_BUILD_TYPE "Release" CACHE STRING "Build type")
 endif()
