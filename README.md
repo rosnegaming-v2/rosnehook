@@ -6,3 +6,4 @@ original rosnehook got deleted
 
 # the best cheat ever
 very sigma skibidi toilet cheat
+# [DISCORD INVITE](https://discord.gg/SpetKkj3fx)
