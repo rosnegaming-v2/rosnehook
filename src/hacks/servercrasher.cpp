@@ -1,6 +1,39 @@
-//N
-//I
-//G
-//G
-//E
-//R
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1"); -> g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1"); -> g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
+ g_IEngine->ServerCmd("voicemenu 2 1");
