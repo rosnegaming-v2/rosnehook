@@ -5,6 +5,9 @@
  *      Author: nullifiedcat
  */
 
+MAKE AIMBOT BETTER BELOW
+// CODEOWNER : PWNED2013
+
 #include <hacks/Aimbot.hpp>
 #include <hacks/AntiAim.hpp>
 #include <hacks/ESP.hpp>
