@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+set -e
+
+#
+# Build rosnehook
+#
+
+./scripts/updater false true true
+
+echo
+echo "./install-all completed!"
+echo
