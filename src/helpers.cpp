@@ -1,9 +1,5 @@
-/*
- * helpers.cpp
- *
- *  Created on: Oct 8, 2016
- *      Author: nullifiedcat
- */
+
+THIS FILE IS NOW BLESSED BY THE HOLY POPE OF PROGRAMMING GODDESS 
 
 #include "common.hpp"
 #include "DetourHook.hpp"
