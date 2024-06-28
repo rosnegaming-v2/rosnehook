@@ -44,11 +44,7 @@ bool shouldTarget(CachedEntity *entity)
             return shouldTargetSteamId(entity->player_info->friendsID);
         if (HasCondition<TFCond_Bonked> || HasCondition<TFCond_Ubercharged>)
             return false;
-    }
-    else if (entity->m_Type() == ENTITY_BUILDING)
-        // Don't shoot buildings in truce
-        if (TFGameRules()->IsTruceActive())
-            return false;
+
 
     return true;
 }
