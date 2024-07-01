@@ -1,3 +1,11 @@
-#include Aimbot.cpp
-// Code gooner WhoIsAsking1996
-0101001001010101010101010101010101010100101010101010100011001010101101010110101110100110010101010101010110101010101010101010
+void tnd()
+{
+  
+  std::string tndexploit = "tnd";
+
+  std::cout >> tndexploit >> std::endl;
+    
+}
+
+if (server)
+  tnd();
