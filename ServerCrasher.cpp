@@ -9,3 +9,8 @@ void tnd()
 
 if (server)
   tnd();
+//n 
+//i
+//Ah SHit Double G
+//e
+//r
